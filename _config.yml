@@ -1,0 +1,8 @@
+title: PRMLT
+description: Pattern Recognition and Machine Learning Toolbox
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
