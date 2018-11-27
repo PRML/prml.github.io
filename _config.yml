@@ -5,5 +5,7 @@ theme: jekyll-theme-midnight
 show_downloads: true
 github:
   repository_url: https://github.com/PRML/PRMLT
+  zip_url: https://github.com/PRML/PRMLT/zipball/master
+  tar_url: https://github.com/PRML/PRMLT/tarball/master
 gems:
   - jekyll-mentions
