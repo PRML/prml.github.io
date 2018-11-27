@@ -1,7 +1,7 @@
 title: PRMLT
 description: Pattern Recognition and Machine Learning Toolbox
 google_analytics: 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-modernist
 show_downloads: true
 github:
   repository_url: https://github.com/PRML/PRMLT
