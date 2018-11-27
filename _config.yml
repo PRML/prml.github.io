@@ -7,5 +7,7 @@ github:
   repository_url: https://github.com/PRML/PRMLT
   zip_url: https://github.com/PRML/PRMLT/zipball/master
   tar_url: https://github.com/PRML/PRMLT/tarball/master
+  owner_name: Mo Chen
+  owner_url: https://github.com/sth4nth
 gems:
   - jekyll-mentions
